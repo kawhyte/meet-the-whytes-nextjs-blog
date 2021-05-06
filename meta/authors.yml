@@ -1,10 +1,6 @@
 authors:
-  - slug: ren
-    name: Rene
-    introduction:
-      Co-founder and CTO at Fuller, Inc.
-  - slug: ken
-    name: Kenny 
+  - slug: wutali
+    name: Takahiro Fujiwara
     introduction:
       Co-founder and CTO at Fuller, Inc. / Software & Data Engineer /
       Python / Golang / React
